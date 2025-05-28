@@ -34,8 +34,3 @@ Este diagrama representa a modelagem de banco de dados para um sistema simples d
 ![Diagrama ER do Sistema de Livraria](https://github.com/rafamar9806/dblivraria/blob/main/Captura%20de%20imagem_20250527_214818.png?raw=true)
 
 ---
-
-## 🗂️ Observações
-
-- A modelagem garante integridade referencial com uso de chaves estrangeiras.
-- Simples, mas suficiente para operações básicas de cadastro de produtos, clientes e realização de pedidos.
